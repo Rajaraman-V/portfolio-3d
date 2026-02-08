@@ -38,7 +38,7 @@ const Navbar = () => {
   className="flex items-center gap-3 cursor-pointer"
 >
   <img
-    src="pubilc/profile.jpg"
+    src="pubilc/images/profile.jpg"
     alt="Raja Raman"
     className="w-10 h-10 rounded-full object-cover border-2 border-primary shadow-md shadow-primary/40 hover:scale-105 transition-transform"
   />

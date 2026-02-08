@@ -6,14 +6,14 @@ const timeline = [
     institution: "Vyasa Vidyalaya",
     degree: "CS Student",
     period: "2009 – 2023",
-    logo: "pubilc/logos/vyasa.png",
+    logo: "pubilc/images/vyasa.png",
     highlights: "Secured 80.8% in 12th Board Exam.Secured 70% in 11th Board Exam.Ensured responsiveness and code quality.",
   },
   {
     institution: "Saveetha Engineering College",
     degree: "B.E - COMPUTER SCIENCE AND ENGINEERING (IoT)",
     period: "2023-2027",
-    logo: "pubilc/logos/saveetha.png",
+    logo: "pubilc/images/saveetha.png",
     highlights: "Created mobile apps using React Native.Integrated APIs and worked with teams.Maintained performance and UX quality."
   },
 ];
