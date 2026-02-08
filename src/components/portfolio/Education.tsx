@@ -13,7 +13,7 @@ const timeline = [
     institution: "Saveetha Engineering College",
     degree: "B.E - COMPUTER SCIENCE AND ENGINEERING (IoT)",
     period: "2023-2027",
-    logo: "",
+    logo: "https://github.com/Rajaraman-V/portfolio-3d/blob/main/pubilc/images/saveetha.png",
     highlights: "Created mobile apps using React Native.Integrated APIs and worked with teams.Maintained performance and UX quality."
   },
 ];
