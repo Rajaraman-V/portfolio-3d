@@ -38,7 +38,7 @@ const Navbar = () => {
   className="flex items-center gap-3 cursor-pointer"
 >
   <img
-    src="/profile.jpg"
+    src="https://instagram.fmaa5-1.fna.fbcdn.net/v/t51.2885-19/535353914_18077409001982955_3241621937896006705_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmaa5-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QHCyZYl3mKjD7G5I0VgC7yA_SS9H7kfG9Dfhx8-goI-8OisZ6iSRw_oCyk8v6-xWv6KSjXcsuvyTVk7MYcxP0R5&_nc_ohc=XCJ2_wfHqzMQ7kNvwHSqr3A&_nc_gid=fdqNAx3sALln5kcFjP15eA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afsb2AkQyhzsAt6iGFXSCdKSilQhfqIwf1pxVUXtI0DdeQ&oe=698F5427&_nc_sid=8b3546"
     alt="Raja Raman"
     className="w-10 h-10 rounded-full object-cover border-2 border-primary shadow-md shadow-primary/40 hover:scale-105 transition-transform"
   />
