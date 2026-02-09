@@ -7,7 +7,7 @@ const projects = [
     title: "SysScan",
     description: "SysScan is a security-based system monitoring tool designed to analyze computer systems for vulnerabilities, performance issues, and security threats. It helps users identify risks and maintain system health by providing real-time monitoring and analysis.",
     tags: ["System monitoring", "security", "Prototyping"],
-    image: "https://images.pond5.com/loop-glitch-labeled-system-failure-footage-314378297_iconl.jpeg",
+    image: "https://t4.ftcdn.net/jpg/07/01/25/55/360_F_701255529_Ag3AVYC7TejvNFAR8YcbP6hD3g6CaNVx.jpg",
     link: "https://github.com/Rajaraman-V/SysScan",
   },
   {
